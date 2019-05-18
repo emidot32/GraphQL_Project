@@ -1,7 +1,7 @@
 # GraphQL_Project
 --ENG--
 
-Project to speak on SE with using GraphQL as RESTful API replacement.
+Project for a lecture on SE with using GraphQL as RESTful API replacement.
 
 Used techologies:
    1) Python 3.7 as programming language.
