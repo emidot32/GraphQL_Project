@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title> Мои прочитаные книги </title>
+    </head>
+    <body>
+        <meta charset="UTF-8">
+        <table border="1" cellpadding="5" width="100%">
+            <tr>
+                <th> Автор </th>
+                <td> Книга </td>
+            </tr>
+         {% for author, book in books %}
+            <tr>
+               <th> {{ author }} </th>
+               <td> {{ book }} </td>
+            </tr>
+         {% endfor %}
+      </table>
+    </body>
+</html>
