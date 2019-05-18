@@ -9,6 +9,7 @@ Used techologies:
    3) graphene as python implementation of GraphQL.
    4) PostgreSQL as database management system. 
    5) SQLAlchemy as ORM library.
+   
 Also I added dump file of our db. You can restore it with postgres command.
 
 docs how you can do that: https://postgrespro.ru/docs/postgresql/9.4/backup-dump
